@@ -1,5 +1,8 @@
 # EduChess
 
+<img width="1228" height="575" alt="image" src="https://github.com/user-attachments/assets/b5ec51a3-c42b-4fe6-abc6-460693c8999f" />
+
+
 **EduChess** is an educational chess assistant developed by the **Rook and Rule** team.  
 It uses **computer vision and machine learning** to detect a chessboard from images, convert it into FEN notation, and let you play against the **Stockfish chess engine** with real-time feedback and move explanations.  
 
@@ -44,6 +47,8 @@ Place the executable inside a `stockfish/` folder in the project directory.
 ---
 
 EduChess is a derivative of [ChessEduBotArm](https://github.com/RooKAndRule/ChessEduBotArm), focusing on the core assistant functionality of board detection, FEN conversion, Stockfish play, and real-time feedback, while ChessEduBotArm represents the future vision of the project, integrating a robotic arm and LSTM models to predict the next move, track whether the player is improving or repeating mistakes, and evaluate how well the prediction model itself performs.
+
+
 
 
   
