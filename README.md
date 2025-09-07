@@ -1,6 +1,7 @@
 # EduChess
 
-<img width="1228" height="575" alt="image" src="https://github.com/user-attachments/assets/b5ec51a3-c42b-4fe6-abc6-460693c8999f" />
+<img width="1134" height="460" alt="image" src="https://github.com/user-attachments/assets/7ba51378-d4bf-4e22-a08d-3fa601f9d6d6" />
+
 
 
 **EduChess** is an educational chess assistant developed by the **Rook and Rule** team.  
